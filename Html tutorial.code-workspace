@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../Html tutorial"
+	},
+	{
+		"path": "../../htmlcssproject"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "htmlcssjava"
+  }
+}
